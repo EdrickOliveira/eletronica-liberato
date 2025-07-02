@@ -6,7 +6,7 @@ Prova aplicada no dia 23/04/2025, com duração de 2 horas e 30 minutos. Válida
 
 ## Funcionamento do Código
 
-O objetivo principal é controlar o piscar de três LEDs (no meu caso, vermelho, amarelo e verde) com diferentes frequências, que podem ser configuradas dinamicamente pelo usuário por meio de dois botões físicos ou comandos via UART.
+O objetivo principal é controlar o piscar de três LEDs (no meu caso, vermelho, amarelo e verde) em diferentes frequências, que podem ser configuradas dinamicamente pelo usuário por meio de dois botões físicos ou comandos via UART.
 
 ### Estrutura do Código
 
